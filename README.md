@@ -10,7 +10,7 @@
     </a>
 </p>
 
-![My card name](https://cardivo.vercel.app/api?name=Sachu-Samu&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/78668573?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=ajmal_ibn_shanavas&github=Sachu-Samu&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Sachu-Samu&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/78668573?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=sachu_samu_creation&github=sachusamu-c&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 <div align="center">
   <p align="center">
@@ -20,7 +20,7 @@
 <a href="#"><img title="Sachu-Samu" src="https://img.shields.io/badge/Ajmal Achu-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Achu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-Sachu-Samu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
